@@ -12,6 +12,7 @@
     "docusaurus": "^1.14.7"
   },
   "dependencies": {
+    "docusaurus-theme-mdx-v2": "^0.1.2",
     "yarn": "^1.22.19"
   }
 }
